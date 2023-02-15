@@ -1,7 +1,7 @@
 {
-	"name": "@charliewilco/esm",
+	"name": "@charliewilco/buttondown.ts",
 	"version": "0.0.1",
-	"repository": "charliewilco/esm-ts-starter",
+	"repository": "charliewilco/buttondown-client",
 	"license": "Unlicense",
 	"files": [
 		"dist/**/*"
